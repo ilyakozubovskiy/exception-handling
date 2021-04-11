@@ -10,8 +10,8 @@ This is a beginner level task for practicing exception handling.
 
 ## Complete the Task
 
-1. Add exception handling constructions (try-catch) to HandlingExceptions.cs file. See TODO comments there.
-2. Add exception throwing code (throw) to ThrowingExceptions.cs  file. See TODO comments there.
+1. Add exception handling constructions (try-catch) to [HandlingExceptions.cs](ExceptionHandling/HandlingExceptions.cs) file. See TODO comments there.
+2. Add exception throwing code (throw) to [ThrowingExceptions.cs](ExceptionHandling/ThrowingExceptions.cs) file. See TODO comments there.
 
 
 ## Fix Compiler Issues
