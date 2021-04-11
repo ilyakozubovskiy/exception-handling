@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ExceptionHandling
 {
@@ -57,7 +57,6 @@ namespace ExceptionHandling
             return false;
         }
 
-        // Don't touch the ThrowException method.
         private static void ThrowException(object obj, int i = 1, int j = 1, bool throwException = false)
         {
             if (obj is null)

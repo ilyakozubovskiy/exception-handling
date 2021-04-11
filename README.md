@@ -38,6 +38,8 @@ throw new ApplicationException();
 throw new SystemException();
 ```
 
+The good solution for fixing the warning is to replace the generic exception type (Exception class) to a specific exception type.
+
 
 ## Save Your Work
 
